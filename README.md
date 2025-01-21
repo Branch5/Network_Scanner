@@ -1,4 +1,4 @@
-#This repository contains the Python executable Network Scanner script.
+#This is a Python executable Network Scanner terminal tool.
 
 This code works to scan an IP address or an IP range and identify its MAC address.
 The code works by creating an ARP (Address Resolution Protocol) request, then broadcasting it, then receiving a response(MAC address), then pinging the
